@@ -119,22 +119,9 @@ hr {
 }
 
 .fa-star.filled {
-    color: #FFC014;
+    color: #ffc014;
 }
 
 .fa-star.empty {
-    color: #AEAEAE;
-}
-
-.course-duration {
-    height: 29.382596969604492px;
-    width: 100px;
-    color: #FF4A60;
-    background-color: #FFE4E8;
-    border-radius: 14.6913px;
-}
-
-.course-duration .fa-clock-rotate-left {
-    color: #FF4A60;
-
+    color: #aeaeae;
 }
